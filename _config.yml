@@ -1,30 +1,25 @@
 url: https://crst2023.github.io
 baseurl: /
 
-# Site settings
-title: Test-title
+title: CSE Research Symposium
 email: csrt2023@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Research Symposium for Computer Science. Date: 25-26 March 2023. Venue: F. C. Kohli Auditorium, IIT Bombay.."
 
-# Team names, titles and social links
 people:
-- name: Test-name
+- name: Sarthak Mittal
   pic: 1
-  position: Lead Designer
+  position: Webpage Designer
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+    - title: globe
+      url: https://sarthakmittal92.github.io/
+    - title: github
+      url: https://github.com/sarthakmittal92
+    - title: linkedin
+      url: https://www.linkedin.com/in/sarthakmittal0902/
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/jekyllrb
-  - title: facebook
-    url: #
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket 
@@ -32,12 +27,10 @@ social:
   - title: github
     url: http://github.com/csrt2023
 
-# Postal address (add as many lines as necessary)
 address:
   - line: F.C. Kohli Auditorium, IIT Bombay, Powai
   - line: Mumbai, Maharashtra, India
 
-# Build settings
 markdown: kramdown
 permalink: pretty
 remote_theme: y7kim/agency-jekyll-theme

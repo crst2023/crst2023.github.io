@@ -1,10 +1,10 @@
 ---
-title: Name
-subtitle: Designation
+title: Karthik Ramachandra
+subtitle: Principal Engineering Manager, Microsoft
 layout: default
 modal-id: 2
-web: https://crst2023.github.io/
+web: https://www.microsoft.com/en-us/research/people/karam/
 date: 2023-01-07
-img: 02.png
-thumbnail: 02.png
+img: 02.jpg
+thumbnail: 02.jpg
 ---

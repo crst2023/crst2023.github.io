@@ -1,10 +1,10 @@
 ---
-title: Name
-subtitle: Designation
+title: Pratik Jawanpuria
+subtitle: Principal Applied Scientist, Microsoft
 layout: default
 modal-id: 5
-web: https://sarthakmittal92.github.io/
+web: https://pratikjawanpuria.com/
 date: 2023-01-07
-img: 05.png
-thumbnail: 05.png
+img: 05.jpg
+thumbnail: 05.jpg
 ---

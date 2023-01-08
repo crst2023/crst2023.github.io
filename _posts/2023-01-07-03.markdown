@@ -1,10 +1,10 @@
 ---
-title: Name
-subtitle: Designation
+title: Kuldeep Meel
+subtitle: Assistant Professor, NUS School of Computing
 layout: default
 modal-id: 3
-web: https://sarthakmittal92.github.io/
+web: https://www.comp.nus.edu.sg/~meel/
 date: 2023-01-07
-img: 03.png
-thumbnail: 03.png
+img: 03.jpg
+thumbnail: 03.jpg
 ---

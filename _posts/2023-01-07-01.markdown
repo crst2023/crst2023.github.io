@@ -1,10 +1,10 @@
 ---
-title: Name
-subtitle: Designation
+title: Rijurekha Sen
+subtitle: Assistant Professor, IIT Delhi CSE
 layout: default
 modal-id: 1
-web: https://sarthakmittal92.github.io/
+web: https://www.cse.iitd.ac.in/~rijurekha/
 date: 2023-01-07
-img: 01.png
-thumbnail: 01.png
+img: 01.jpeg
+thumbnail: 01.jpeg
 ---

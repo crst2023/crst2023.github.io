@@ -1,10 +1,10 @@
 ---
-title: Name
-subtitle: Designation
+title: Uma Sawant
+subtitle: Senior Software Engineer Manager, LinkedIn
 layout: default
 modal-id: 6
-web: https://sarthakmittal92.github.io/
+web: https://in.linkedin.com/in/umasawant
 date: 2023-01-07
-img: 06.png
-thumbnail: 06.png
+img: 06.jpg
+thumbnail: 06.jpg
 ---

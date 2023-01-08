@@ -1,10 +1,10 @@
 ---
-title: Name
-subtitle: Designation
+title: Ashish Chiplunkar
+subtitle: Assistant Professor, IIT Delhi CSE
 layout: default
 modal-id: 4
-web: https://sarthakmittal92.github.io/
+web: https://www.cse.iitd.ac.in/~ashishc/
 date: 2023-01-07
-img: 04.png
-thumbnail: 04.png
+img: 04.jpeg
+thumbnail: 04.jpeg
 ---

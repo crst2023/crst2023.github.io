@@ -5,6 +5,6 @@ layout: default
 modal-id: 1
 web: https://www.cse.iitd.ac.in/~rijurekha/
 date: 2023-01-07
-img: 01.jpeg
-thumbnail: 01.jpeg
+img: 01.jpg
+thumbnail: 01.jpg
 ---

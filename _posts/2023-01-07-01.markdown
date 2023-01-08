@@ -1,10 +1,10 @@
 ---
-title: Rijurekha Sen
-subtitle: Assistant Professor, IIT Delhi CSE
+title: Uma Sawant
+subtitle: Senior Software Engineer Manager, LinkedIn
 layout: default
-modal-id: 1
-web: https://www.cse.iitd.ac.in/~rijurekha/
+modal-id: 6
+web: https://in.linkedin.com/in/umasawant
 date: 2023-01-07
-img: 01.jpeg
-thumbnail: 01.jpeg
+img: 06.jpg
+thumbnail: 06.jpg
 ---

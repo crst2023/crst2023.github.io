@@ -2,6 +2,9 @@
 title: Name
 subtitle: Designation
 layout: default
+modal-id: 3
 url: https://crst2023.github.io/
-thumbnail: 06.png
+date: 2023-01-07
+img: 03.png
+thumbnail: 03.png
 ---

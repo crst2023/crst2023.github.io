@@ -10,13 +10,13 @@
             <div class="row">
             {% for post in site.posts %}
                 <div class="col-md-4 col-sm-6 portfolio-item">
+                    <a href="{{ post.url }}" class="portfolio-link"  data-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content">
-                                <a href="{{ post.url }}" class="portfolio-link"  data-toggle="modal">
                                 <i class="fa fa-plus fa-3x"></i>
-                                </a>
                             </div>
                         </div>
+                    </a>
                     <img src="img/speakers/{{ post.thumbnail }}" class="img-responsive img-centered" alt="">
                     <div class="portfolio-caption">
                         <h4>{{ post.title }}</h4>

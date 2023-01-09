@@ -1,6 +1,7 @@
 ---
 title: Uma Sawant
-subtitle: Senior Software Engineer Manager, LinkedIn
+subtitle: Senior Software Engineer Manager
+company: LinkedIn
 layout: default
 modal-id: 6
 web: https://in.linkedin.com/in/umasawant

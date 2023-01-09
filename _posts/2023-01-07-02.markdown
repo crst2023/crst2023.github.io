@@ -1,6 +1,7 @@
 ---
 title: Karthik Ramachandra
-subtitle: Principal Engineering Manager, Microsoft
+subtitle: Principal Engineering Manager
+company: Microsoft
 layout: default
 modal-id: 2
 web: https://www.microsoft.com/en-us/research/people/karam/

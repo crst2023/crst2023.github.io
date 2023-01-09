@@ -1,6 +1,7 @@
 ---
 title: Kuldeep Meel
-subtitle: Assistant Professor, NUS School of Computing
+subtitle: Assistant Professor
+company: NUS School of Computing
 layout: default
 modal-id: 3
 web: https://www.comp.nus.edu.sg/~meel/

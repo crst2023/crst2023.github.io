@@ -1,6 +1,7 @@
 ---
 title: Rijurekha Sen
-subtitle: Assistant Professor, IIT Delhi CSE
+subtitle: Assistant Professor
+company: IIT Delhi CSE
 layout: default
 modal-id: 1
 web: https://www.cse.iitd.ac.in/~rijurekha/

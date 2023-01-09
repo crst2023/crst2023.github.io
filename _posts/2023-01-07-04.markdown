@@ -1,6 +1,7 @@
 ---
 title: Ashish Chiplunkar
-subtitle: Assistant Professor, IIT Delhi CSE
+subtitle: Assistant Professor
+company: IIT Delhi CSE
 layout: default
 modal-id: 4
 web: https://www.cse.iitd.ac.in/~ashishc/

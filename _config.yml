@@ -8,19 +8,19 @@ description: "Research Symposium for Computer Science. Date: 25-26 March 2023. V
 people:
 - name: Biswabandhan Panda
   pic: 1
-  position: Professor
+  position: Faculty, IITB CSE
   social:
     - title: globe
       url: https://www.cse.iitb.ac.in/~biswa/
 - name: Abir De
   pic: 2
-  position: Professor
+  position: Faculty, IITB CSE
   social:
     - title: globe
       url: https://abir-de.github.io/
 - name: Rohit Gurjar
   pic: 3
-  position: Professor
+  position: Faculty, IITB CSE
   social:
     - title: globe
       url: https://www.cse.iitb.ac.in/~rgurjar/

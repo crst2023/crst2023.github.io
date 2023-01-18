@@ -8,28 +8,28 @@ description: "Research Symposium for Computer Science. Date: 25-26 March 2023. V
 people:
 - name: Biswabandhan Panda
   pic: 1
-  position: Organizer
+  position: Professor
   social:
     - title: globe
       url: https://www.cse.iitb.ac.in/~biswa/
 - name: Abir De
   pic: 2
-  position: Organizer
+  position: Professor
   social:
     - title: globe
       url: https://abir-de.github.io/
 - name: Rohit Gurjar
   pic: 3
-  position: Organizer
+  position: Professor
   social:
     - title: globe
       url: https://www.cse.iitb.ac.in/~rgurjar/
-- name: Sarthak Mittal
-  pic: 4
-  position: Webpage Designer
-  social:
-    - title: globe
-      url: https://sarthakmittal92.github.io/
+# - name: Sarthak Mittal
+#   pic: 4
+#   position: Webpage Designer
+#   social:
+#     - title: globe
+#       url: https://sarthakmittal92.github.io/
 
 social:
   - title: twitter

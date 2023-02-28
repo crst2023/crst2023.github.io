@@ -360,8 +360,9 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item {
     display: inline-block;
+    position: relative;
     float: none!important;
-    width: 33%;
+    width: auto;
     right: 0;
     margin: 0 0 15px;
 }
@@ -412,7 +413,6 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-caption {
     margin: 0 auto;
     padding: 25px;
-    max-width: 400px;
     text-align: center;
     background-color: #fff;
 }
@@ -424,7 +424,6 @@ section h3.section-subheading {
 
 #portfolio .portfolio-item .portfolio-caption p {
     margin: 0;
-    font-family: {{ site.data.template.font.secondary }};
     font-size: 16px;
     font-style: italic;
 }
